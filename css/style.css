@@ -1,0 +1,47 @@
+
+body{
+	background-image: url(../img/slika1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+#omot{
+	max-width: 250px;
+	padding: 10px;
+	margin: 4px auto;
+	border-radius: 10px;
+	background-color: rgba(243,206,245,0.5);
+	text-align: center;
+	overflow: hidden;
+	border:2px solid grey;
+}
+.pocetak{
+	float: left;
+}
+#rezultat{
+	margin:auto;
+	text-align: center;
+	padding: 5px;
+	background-color: rgba(250,226,90,0.6);
+	border-radius: 10px;
+	max-width: 300px;
+}
+#poruka{
+	margin: 4px auto;
+	text-align: left;
+	padding: 5px;
+	background-color: rgba(250,226,90,0.6);
+	border-radius: 10px;
+	max-width: 350px;
+}
+.slikaporuka{
+	float: right;
+	border-radius: 5px;
+}
+#obavjestenje{
+	max-width: 250px;
+	border-radius: 5px;
+	background-color: rgba(237,235,235,0.6);
+	margin: auto;
+	text-align: center;
+	padding: 5px;
+}
